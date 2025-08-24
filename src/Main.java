@@ -15,6 +15,7 @@ public class Main {
         numbers2.add(1);
         numbers2.add(10);
         numbers2.add(100);
+        numbers2.add(1000);
         System.out.println("numbers2 = " + numbers2);
     }
 }
